@@ -1,6 +1,6 @@
 
 
-This is a C library for Widora MT7628 Board. It provides access to GPIO and other IO functions on the MTK MT7628/7688  chip, allowing access to the GPIO pins so you can control and interface with various external devices.
+This is a C library for Widora MT7628 Board. It provides access to GPIO and other IO functions on the MTK MT7628/MT7688 chip, allowing access to the GPIO pins so you can control and interface with various external devices.
 
 It provides functions for reading digital inputs and setting digital outputs, using SPI and I2C, and for accessing the system timers. Pin event detection is supported by polling (interrupts are not supported).
 
