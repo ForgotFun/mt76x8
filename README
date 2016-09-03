@@ -7,4 +7,4 @@ It provides functions for reading digital inputs and setting digital outputs, us
 It is C++ compatible, and installs as a header file and non-shared library on any Linux-based distro.
 
 
-Several example programs are provided. If you have some questions please mailto forgotfun@qq.com.
+Several example programs are provided. If you have any question please mailto forgotfun@qq.com.
